@@ -14,11 +14,11 @@ scikit-learn==1.2.2
 snorkel==0.9.9
 SQLAlchemy==1.4.48
 torch==2.0.0
-transformers==4.28.1
+transformers==4.53.0
 
 # Notebook
 cleanlab==2.3.1
-jupyterlab==3.6.3
+jupyterlab==4.4.8
 lime==0.2.0.1
 seaborn==0.12.2
 wordcloud==1.9.2
